@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Jacky!
 - 👀 Feel free to roam around my page & explore my projects :)
-- 🌱 CS major at Humboldt State University 
-- 💞️ Lets network! linkedin.com/in/jacqueline-lyons-6277a6153
+- 🌱 CS major at Cal Poly Humboldt
 - 📫 jrl127@humboldt.edu 
 
 <!---
