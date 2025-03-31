@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jacky!
 - 👀 Feel free to roam around my page & explore my projects :)
-- 🌱 CS major at Cal Poly Humboldt
+- 🌱 B.S. Computer Science
 - 📫 jacqueline.lyons11@gmail.com 
 
 <!---
